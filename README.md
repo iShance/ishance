@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 20 years breathing<br>- a Full stack dev who code's in his free time</p>
+<p align="left">- 20 years breathing<br>- a Full stack dev who codes in his free time</p>
 
 ###
 
