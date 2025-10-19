@@ -21,11 +21,11 @@
 
 ###
 
-<img align="right" height="370" src="https://cdn.discordapp.com/attachments/912113377688571957/1279877140568870944/Your_paragraph_text-removebg-preview.png?ex=680dd4b9&is=680c8339&hm=fac9713f070d4e467d8b2c5a3940d54d92f6e0f9d894e51d26549b200d438dd8&"  />
+<img align="right" height="370" src="https://media.discordapp.net/attachments/912113377688571957/1279877140568870944/Your_paragraph_text-removebg-preview.png?ex=68f5dcb9&is=68f48b39&hm=a0650acf7cf2cdd1584d7c8c76b4afc6a6b886c0cb23ab953f5d84a6ee9726bf&=&format=webp&quality=lossless&width=488&height=618"  />
 
 ###
 
-<p align="left">- 20 years breathing<br>- a Full stack dev who codes in his free time</p>
+<p align="left">- 20 years breathing </p>
 
 ###
 
